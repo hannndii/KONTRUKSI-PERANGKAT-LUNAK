@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Code\\GUI C#\\App_GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76A49DE9-305C-4033-8782-D1415C6D1B41}|App_GUI\\App_GUI.csproj|d:\\my code\\gui c#\\app_gui\\app_gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A49DE9-305C-4033-8782-D1415C6D1B41}|App_GUI\\App_GUI.csproj|solutionrelative:app_gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A49DE9-305C-4033-8782-D1415C6D1B41}|App_GUI\\App_GUI.csproj|d:\\my code\\gui c#\\app_gui\\app_gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76A49DE9-305C-4033-8782-D1415C6D1B41}|App_GUI\\App_GUI.csproj|solutionrelative:app_gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A49DE9-305C-4033-8782-D1415C6D1B41}|App_GUI\\App_GUI.csproj|d:\\my code\\gui c#\\app_gui\\app_gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A49DE9-305C-4033-8782-D1415C6D1B41}|App_GUI\\App_GUI.csproj|solutionrelative:app_gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A49DE9-305C-4033-8782-D1415C6D1B41}|App_GUI\\App_GUI.csproj|d:\\my code\\gui c#\\app_gui\\app_gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A49DE9-305C-4033-8782-D1415C6D1B41}|App_GUI\\App_GUI.csproj|solutionrelative:app_gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Code\\GUI C#\\App_GUI\\App_GUI\\Program.cs",
+              "RelativeDocumentMoniker": "App_GUI\\Program.cs",
+              "ToolTip": "D:\\My Code\\GUI C#\\App_GUI\\App_GUI\\Program.cs",
+              "RelativeToolTip": "App_GUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:14:22.515Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\My Code\\GUI C#\\App_GUI\\App_GUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "App_GUI\\Form1.Designer.cs",
+              "ToolTip": "D:\\My Code\\GUI C#\\App_GUI\\App_GUI\\Form1.Designer.cs",
+              "RelativeToolTip": "App_GUI\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:14:27.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\My Code\\GUI C#\\App_GUI\\App_GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "App_GUI\\Form1.cs",
+              "ToolTip": "D:\\My Code\\GUI C#\\App_GUI\\App_GUI\\Form1.cs",
+              "RelativeToolTip": "App_GUI\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:15:22.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\My Code\\GUI C#\\App_GUI\\App_GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "App_GUI\\Form1.cs",
+              "ToolTip": "D:\\My Code\\GUI C#\\App_GUI\\App_GUI\\Form1.cs [Design]",
+              "RelativeToolTip": "App_GUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:05:21.458Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

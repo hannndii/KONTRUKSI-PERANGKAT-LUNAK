@@ -1,0 +1,17 @@
+D:\My Code\GUI C#\App_GUI\App_GUI\bin\Debug\net8.0-windows\App_GUI.exe
+D:\My Code\GUI C#\App_GUI\App_GUI\bin\Debug\net8.0-windows\App_GUI.deps.json
+D:\My Code\GUI C#\App_GUI\App_GUI\bin\Debug\net8.0-windows\App_GUI.runtimeconfig.json
+D:\My Code\GUI C#\App_GUI\App_GUI\bin\Debug\net8.0-windows\App_GUI.dll
+D:\My Code\GUI C#\App_GUI\App_GUI\bin\Debug\net8.0-windows\App_GUI.pdb
+D:\My Code\GUI C#\App_GUI\App_GUI\obj\Debug\net8.0-windows\App_GUI.Form1.resources
+D:\My Code\GUI C#\App_GUI\App_GUI\obj\Debug\net8.0-windows\App_GUI.csproj.GenerateResource.cache
+D:\My Code\GUI C#\App_GUI\App_GUI\obj\Debug\net8.0-windows\App_GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Code\GUI C#\App_GUI\App_GUI\obj\Debug\net8.0-windows\App_GUI.AssemblyInfoInputs.cache
+D:\My Code\GUI C#\App_GUI\App_GUI\obj\Debug\net8.0-windows\App_GUI.AssemblyInfo.cs
+D:\My Code\GUI C#\App_GUI\App_GUI\obj\Debug\net8.0-windows\App_GUI.csproj.CoreCompileInputs.cache
+D:\My Code\GUI C#\App_GUI\App_GUI\obj\Debug\net8.0-windows\App_GUI.sourcelink.json
+D:\My Code\GUI C#\App_GUI\App_GUI\obj\Debug\net8.0-windows\App_GUI.dll
+D:\My Code\GUI C#\App_GUI\App_GUI\obj\Debug\net8.0-windows\refint\App_GUI.dll
+D:\My Code\GUI C#\App_GUI\App_GUI\obj\Debug\net8.0-windows\App_GUI.pdb
+D:\My Code\GUI C#\App_GUI\App_GUI\obj\Debug\net8.0-windows\App_GUI.genruntimeconfig.cache
+D:\My Code\GUI C#\App_GUI\App_GUI\obj\Debug\net8.0-windows\ref\App_GUI.dll
