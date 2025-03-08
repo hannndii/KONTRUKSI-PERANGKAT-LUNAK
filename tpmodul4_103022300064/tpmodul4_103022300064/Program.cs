@@ -80,7 +80,7 @@ public class DoorMachine
         switch (currentState)
         {
             case State.Terkunci:
-                if (action.ToLower() == "buka")
+                if (action.ToLower() == "Buka")
                 {
                     currentState = State.Terbuka;
                     Console.WriteLine("Pintu tidak terkunci");
