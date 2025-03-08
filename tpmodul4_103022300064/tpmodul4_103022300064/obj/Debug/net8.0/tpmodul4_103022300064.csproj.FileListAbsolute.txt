@@ -12,3 +12,4 @@ D:\My Code\GUI C#\tpmodul4_103022300064\tpmodul4_103022300064\obj\Debug\net8.0\r
 D:\My Code\GUI C#\tpmodul4_103022300064\tpmodul4_103022300064\obj\Debug\net8.0\tpmodul4_103022300064.pdb
 D:\My Code\GUI C#\tpmodul4_103022300064\tpmodul4_103022300064\obj\Debug\net8.0\tpmodul4_103022300064.genruntimeconfig.cache
 D:\My Code\GUI C#\tpmodul4_103022300064\tpmodul4_103022300064\obj\Debug\net8.0\ref\tpmodul4_103022300064.dll
+D:\My Code\GUI C#\tpmodul4_103022300064\tpmodul4_103022300064\obj\Debug\net8.0\tpmodul4_103022300064.sourcelink.json
