@@ -1,0 +1,15 @@
+D:\My Code\C#\tpmodul2_103022300064\bin\Debug\net8.0\tpmodul2_103022300064.exe
+D:\My Code\C#\tpmodul2_103022300064\bin\Debug\net8.0\tpmodul2_103022300064.deps.json
+D:\My Code\C#\tpmodul2_103022300064\bin\Debug\net8.0\tpmodul2_103022300064.runtimeconfig.json
+D:\My Code\C#\tpmodul2_103022300064\bin\Debug\net8.0\tpmodul2_103022300064.dll
+D:\My Code\C#\tpmodul2_103022300064\bin\Debug\net8.0\tpmodul2_103022300064.pdb
+D:\My Code\C#\tpmodul2_103022300064\obj\Debug\net8.0\tpmodul2_103022300064.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Code\C#\tpmodul2_103022300064\obj\Debug\net8.0\tpmodul2_103022300064.AssemblyInfoInputs.cache
+D:\My Code\C#\tpmodul2_103022300064\obj\Debug\net8.0\tpmodul2_103022300064.AssemblyInfo.cs
+D:\My Code\C#\tpmodul2_103022300064\obj\Debug\net8.0\tpmodul2_103022300064.csproj.CoreCompileInputs.cache
+D:\My Code\C#\tpmodul2_103022300064\obj\Debug\net8.0\tpmodul2_103022300064.sourcelink.json
+D:\My Code\C#\tpmodul2_103022300064\obj\Debug\net8.0\tpmodul2_103022300064.dll
+D:\My Code\C#\tpmodul2_103022300064\obj\Debug\net8.0\refint\tpmodul2_103022300064.dll
+D:\My Code\C#\tpmodul2_103022300064\obj\Debug\net8.0\tpmodul2_103022300064.pdb
+D:\My Code\C#\tpmodul2_103022300064\obj\Debug\net8.0\tpmodul2_103022300064.genruntimeconfig.cache
+D:\My Code\C#\tpmodul2_103022300064\obj\Debug\net8.0\ref\tpmodul2_103022300064.dll

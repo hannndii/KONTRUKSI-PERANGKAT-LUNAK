@@ -1,0 +1,15 @@
+D:\My Code\GUI C#\CobaTableDriven\CobaTableDriven\bin\Debug\net8.0\CobaTableDriven.exe
+D:\My Code\GUI C#\CobaTableDriven\CobaTableDriven\bin\Debug\net8.0\CobaTableDriven.deps.json
+D:\My Code\GUI C#\CobaTableDriven\CobaTableDriven\bin\Debug\net8.0\CobaTableDriven.runtimeconfig.json
+D:\My Code\GUI C#\CobaTableDriven\CobaTableDriven\bin\Debug\net8.0\CobaTableDriven.dll
+D:\My Code\GUI C#\CobaTableDriven\CobaTableDriven\bin\Debug\net8.0\CobaTableDriven.pdb
+D:\My Code\GUI C#\CobaTableDriven\CobaTableDriven\obj\Debug\net8.0\CobaTableDriven.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Code\GUI C#\CobaTableDriven\CobaTableDriven\obj\Debug\net8.0\CobaTableDriven.AssemblyInfoInputs.cache
+D:\My Code\GUI C#\CobaTableDriven\CobaTableDriven\obj\Debug\net8.0\CobaTableDriven.AssemblyInfo.cs
+D:\My Code\GUI C#\CobaTableDriven\CobaTableDriven\obj\Debug\net8.0\CobaTableDriven.csproj.CoreCompileInputs.cache
+D:\My Code\GUI C#\CobaTableDriven\CobaTableDriven\obj\Debug\net8.0\CobaTableDriven.sourcelink.json
+D:\My Code\GUI C#\CobaTableDriven\CobaTableDriven\obj\Debug\net8.0\CobaTableDriven.dll
+D:\My Code\GUI C#\CobaTableDriven\CobaTableDriven\obj\Debug\net8.0\refint\CobaTableDriven.dll
+D:\My Code\GUI C#\CobaTableDriven\CobaTableDriven\obj\Debug\net8.0\CobaTableDriven.pdb
+D:\My Code\GUI C#\CobaTableDriven\CobaTableDriven\obj\Debug\net8.0\CobaTableDriven.genruntimeconfig.cache
+D:\My Code\GUI C#\CobaTableDriven\CobaTableDriven\obj\Debug\net8.0\ref\CobaTableDriven.dll
