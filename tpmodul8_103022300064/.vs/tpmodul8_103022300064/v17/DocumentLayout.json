@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Code\\GUI C#\\tpmodul8_103022300064\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEEDB43-1767-4977-AC03-311D5EE3431B}|tpmodul8_103022300064\\tpmodul8_103022300064.csproj|d:\\my code\\gui c#\\tpmodul8_103022300064\\tpmodul8_103022300064\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BEEDB43-1767-4977-AC03-311D5EE3431B}|tpmodul8_103022300064\\tpmodul8_103022300064.csproj|solutionrelative:tpmodul8_103022300064\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEEDB43-1767-4977-AC03-311D5EE3431B}|tpmodul8_103022300064\\tpmodul8_103022300064.csproj|d:\\my code\\gui c#\\tpmodul8_103022300064\\tpmodul8_103022300064\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BEEDB43-1767-4977-AC03-311D5EE3431B}|tpmodul8_103022300064\\tpmodul8_103022300064.csproj|solutionrelative:tpmodul8_103022300064\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEEDB43-1767-4977-AC03-311D5EE3431B}|tpmodul8_103022300064\\tpmodul8_103022300064.csproj|d:\\my code\\gui c#\\tpmodul8_103022300064\\tpmodul8_103022300064\\covid_config.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2BEEDB43-1767-4977-AC03-311D5EE3431B}|tpmodul8_103022300064\\tpmodul8_103022300064.csproj|solutionrelative:tpmodul8_103022300064\\covid_config.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEEDB43-1767-4977-AC03-311D5EE3431B}|tpmodul8_103022300064\\tpmodul8_103022300064.csproj|d:\\my code\\gui c#\\tpmodul8_103022300064\\tpmodul8_103022300064\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2BEEDB43-1767-4977-AC03-311D5EE3431B}|tpmodul8_103022300064\\tpmodul8_103022300064.csproj|solutionrelative:tpmodul8_103022300064\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "D:\\My Code\\GUI C#\\tpmodul8_103022300064\\tpmodul8_103022300064\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "tpmodul8_103022300064\\CovidConfig.cs",
+              "ToolTip": "D:\\My Code\\GUI C#\\tpmodul8_103022300064\\tpmodul8_103022300064\\CovidConfig.cs",
+              "RelativeToolTip": "tpmodul8_103022300064\\CovidConfig.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T05:10:36.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "D:\\My Code\\GUI C#\\tpmodul8_103022300064\\tpmodul8_103022300064\\covid_config.json",
+              "RelativeDocumentMoniker": "tpmodul8_103022300064\\covid_config.json",
+              "ToolTip": "D:\\My Code\\GUI C#\\tpmodul8_103022300064\\tpmodul8_103022300064\\covid_config.json",
+              "RelativeToolTip": "tpmodul8_103022300064\\covid_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T04:55:32.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\My Code\\GUI C#\\tpmodul8_103022300064\\tpmodul8_103022300064\\.gitignore",
+              "RelativeDocumentMoniker": "tpmodul8_103022300064\\.gitignore",
+              "ToolTip": "D:\\My Code\\GUI C#\\tpmodul8_103022300064\\tpmodul8_103022300064\\.gitignore",
+              "RelativeToolTip": "tpmodul8_103022300064\\.gitignore",
+              "ViewState": "AgIAAFkBAAAAAAAAAAAYwI8BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-12T04:50:34.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Code\\GUI C#\\tpmodul8_103022300064\\tpmodul8_103022300064\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul8_103022300064\\Program.cs",
+              "ToolTip": "D:\\My Code\\GUI C#\\tpmodul8_103022300064\\tpmodul8_103022300064\\Program.cs",
+              "RelativeToolTip": "tpmodul8_103022300064\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T04:46:31.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
